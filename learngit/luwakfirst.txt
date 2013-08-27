@@ -1,5 +1,6 @@
+dec is going(101fixed).
 it worked.really
 creating a new branch is quick and simple.
 come and try shell.
-Git is a distributed version control system.
+Git is a distributed version control system.1
 Git is a free software distributed under the GPL.
